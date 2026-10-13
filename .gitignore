@@ -1,0 +1,14 @@
+# KiCad
+*.kicad_pcb
+*.kicad_prl
+.history/
+*-backups/
+fp-info-cache
+*.lck
+
+# Qt / CMake
+QT/Distance_Map/build/
+QT/Distance_Map/deploy/
+QT/Distance_Map/.qtcreator/
+*.user
+.qmlls.ini
