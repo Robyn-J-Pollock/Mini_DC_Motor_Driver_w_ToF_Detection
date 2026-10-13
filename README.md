@@ -73,10 +73,10 @@ Within each row, a value prefixed with `E` indicates a lower-confidence measurem
 
 ## Qt Visualizer
 
-The Qt project is located in [QT/Distance_Map](QT/Distance_Map). A deployed executable is available at:
+The Qt project is located in [Distance_Map_Exe](Distance_Map_Exe). A deployed executable is available at:
 
 ```
-QT/Distance_Map/deploy/Distance_Map/appDistance_Map.exe
+Distance_Map_Exe/deploy/Distance_Map/appDistance_Map.exe
 ```
 
 The application parses the serial stream described above, renders an 8x8 topographical heat map, and displays the current system status.
